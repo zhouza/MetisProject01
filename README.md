@@ -5,7 +5,9 @@ Women Tech Women Yes (WTWY) is a hypothetical non-profit group located in NY tha
 In order to identify an optimal outreach strategy, publically available MTA data was used in conjunction with census data to target highly populated areas and specifically areas with more women, more women commuters, and more women employed as "professionals".
 
 The repository directory structure is as follows:
-/data/ - includes all data used in analysis
-.py - scripts created to automate cleaning and plot generation
-.ipynb - all Jupyter Notebooks delineating cleaning and analysis steps
-.pdf - high level summary of steps and findings
+
+* /data/ - includes all data used in analysis
+* .py - scripts created to automate cleaning and plot generation
+* .ipynb - all Jupyter Notebooks delineating cleaning and analysis steps
+* .pdf - high level summary of steps and findings
+
