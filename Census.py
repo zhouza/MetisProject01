@@ -14,7 +14,6 @@ from IPython.display import Image
 import plotly
 import plotly.plotly as py
 from plotly.graph_objs import *
-plotly.tools.set_credentials_file(username='aabid0193', api_key='xJKtUA3jiPLjTQThzQUk')
 import scipy
 
 get_ipython().run_line_magic('matplotlib', 'inline')
